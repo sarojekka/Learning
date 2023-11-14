@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest",
     "dev:server": "nodemon --exec babel-node src/server/server.js --ignore dist/",
-    "dev:bundler": "webpack -w --mode=development"
+    "start": "webpack -w --mode=development",
+    "build": "webpack --mode production"
   },
   "author": "Saroj-Ekka",
   "license": "ISC",
