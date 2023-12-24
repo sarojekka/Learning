@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N38XMeQ3dHvAJ3UJu186o4bHcLUlTGL1w5yXdK7UZoA=",
+  "Source": "Relecloud.Web.Api",
+  "BasePath": "_content/Relecloud.Web.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

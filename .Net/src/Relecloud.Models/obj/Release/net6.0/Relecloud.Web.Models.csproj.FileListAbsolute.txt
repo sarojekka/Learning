@@ -1,0 +1,12 @@
+C:\GitHub\Learning\.Net\src\Relecloud.Models\bin\Release\net6.0\Relecloud.Web.Models.deps.json
+C:\GitHub\Learning\.Net\src\Relecloud.Models\bin\Release\net6.0\Relecloud.Web.Models.dll
+C:\GitHub\Learning\.Net\src\Relecloud.Models\bin\Release\net6.0\Relecloud.Web.Models.pdb
+C:\GitHub\Learning\.Net\src\Relecloud.Models\obj\Release\net6.0\Relecloud.Web.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Learning\.Net\src\Relecloud.Models\obj\Release\net6.0\Relecloud.Web.Models.AssemblyInfoInputs.cache
+C:\GitHub\Learning\.Net\src\Relecloud.Models\obj\Release\net6.0\Relecloud.Web.Models.AssemblyInfo.cs
+C:\GitHub\Learning\.Net\src\Relecloud.Models\obj\Release\net6.0\Relecloud.Web.Models.csproj.CoreCompileInputs.cache
+C:\GitHub\Learning\.Net\src\Relecloud.Models\obj\Release\net6.0\Relecloud.Web.Models.sourcelink.json
+C:\GitHub\Learning\.Net\src\Relecloud.Models\obj\Release\net6.0\Relecloud.Web.Models.dll
+C:\GitHub\Learning\.Net\src\Relecloud.Models\obj\Release\net6.0\refint\Relecloud.Web.Models.dll
+C:\GitHub\Learning\.Net\src\Relecloud.Models\obj\Release\net6.0\Relecloud.Web.Models.pdb
+C:\GitHub\Learning\.Net\src\Relecloud.Models\obj\Release\net6.0\ref\Relecloud.Web.Models.dll
